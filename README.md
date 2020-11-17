@@ -3,7 +3,7 @@
 ## ML Model
 The actual images dataset is too large to upload. It was downloaded from this link: https://www.kaggle.com/puneet6060/intel-image-classification/version/2
 
-Rename the folders seg_pred to pred, seg_train to train and seg_test to test and adjust the dirctory acccordingly.
+I renamed the folders seg_pred to pred, seg_train to train and seg_test to test.
 
 For the ML model, first 50 images from each category were taken for training in 'train' folder and first 10 images from each category for testing from 'test' folder.
 
