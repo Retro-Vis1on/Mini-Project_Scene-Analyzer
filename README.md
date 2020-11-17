@@ -11,9 +11,9 @@ The resolution was shrunken down to 48 * 48 for quicker processing.
 
 I've also included the preprocessed dataset (Flattened image data array) in case you want to run the model based on my selected datas.
 
-Every model has their won parameters list defind so, performing GridSearch will be very easy in case you want to try on a differernt set of data
+Every model has their own parameters list defind so, performing GridSearch will be very easy in case you want to try on a differernt set of data.
 
-In my tests, the Kernel SVM performed the best(Parameters are in the jupytr notebook)
+In my tests, the Kernel SVM performed the best (Parameters are in the jupytr notebook)
 
 
 ## Deep Learning Model
